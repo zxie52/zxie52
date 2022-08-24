@@ -2,7 +2,7 @@
 - 👀 I’m interested in matlab, R and python on cognitive neuroscience
 - 🌱 I’m currently working in deparment of Psychological Sciences, Vnaderbilt University
 - 💞️ 
-- 📫 How to reach me: zengbp.xie@vanderbilt.edu
+- 📫 How to reach me: zengbo.xie@vanderbilt.edu
 
 <!---
 zxie52/zxie52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
